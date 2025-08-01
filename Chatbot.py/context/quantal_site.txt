@@ -1,0 +1,8 @@
+QuantalAI is a financial technology company building machine learning and AI solutions for institutional investors. 
+Our platform focuses on market intelligence, risk management, and alpha generation using advanced data science.
+
+Key Offerings:
+- Quantitative analytics
+- Risk models
+- Market behavior prediction
+- AI-powered decision-making tools
